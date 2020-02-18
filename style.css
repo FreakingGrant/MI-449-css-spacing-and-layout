@@ -59,9 +59,13 @@ a {
   padding-top: 1em;
 }
 
+.more-content-container {
+  display: flex;
+  flex-wrap: wrap;
+}
+
 .more-content {
   display: inline-block;
-  width: 500px;
   margin: 5em 3em 3em 3em;
 }
 
